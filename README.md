@@ -4,4 +4,4 @@
 
 <hr>
 
-[详细讲解](https://foreversnowy.com/Dynamic-btn.html)
+[**详细讲解**](https://foreversnowy.com/Dynamic-btn.html)
